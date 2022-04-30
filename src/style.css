@@ -130,6 +130,15 @@ nav a:hover {
   text-align: center;
 }
 
+#popis {
+  background-color: rgba(74, 74, 74, 0.75);
+  justify-content: flex-end;
+   padding-top: 3rem;
+  padding-bottom: 30rem;
+
+  text-align: center;
+}
+
 .intro p {
   font-size: 1.2rem;
 }
@@ -261,6 +270,8 @@ nav a:hover {
   height: auto;
 }
 
+
+
 @media (min-width: 576px) {
   .drink {
     width: 50%;
@@ -292,7 +303,7 @@ nav a:hover {
     margin-top: 0rem;
     margin-bottom: 0rem;
   }
-  
+
   .nav-btn {
     display: none;
   }
