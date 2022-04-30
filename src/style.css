@@ -253,6 +253,8 @@ nav a:hover {
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
+  display: flex;
+  text-align: center;
 }
 
 .contacts {
